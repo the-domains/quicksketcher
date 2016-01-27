@@ -1,0 +1,28 @@
+name: quicksketcher
+favicon: null
+layout_spectrum: 0.31874842778779566
+typography_spectrum: 0.38442686712369323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49819286400452256
+  lightness: 0.4271494601853192
+  saturation: 0.25501224561594427
+  rhythmicContrast: 0.8233334240503609
+purpose: []
